@@ -3,7 +3,17 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
-      
-      
+      {
+         "title": "Sonii Exe Coloring",
+         "description": "Sonii Exe Coloring",
+         "thumb": "https://play-lh.googleusercontent.com/f7941xNQCbkcZ8DmHlC7s--ezcVUIsBkGy3sZryxPnTlktuRyGNeEn6J_yce3R8oc_8Z=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.soniexebom.coloringcartoonhero"
+      },
+      {
+         "title": "Mikecrack EXE coloring",
+         "description": "Mikecrack EXE coloring",
+         "thumb": "https://play-lh.googleusercontent.com/y9ITnSDQ-_15XEw7DrDy_KQbk8YYHpIygxcFqpt2N3qT310rKaDa03j4eK_77XTYXmXS=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.mikecrackexe.juegoscoloringgame"
+      }
    ]
 }
